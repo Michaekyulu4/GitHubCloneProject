@@ -1,2 +1,2 @@
-This is the description of my repo  New line
+This is the description of my repo
 New Line
